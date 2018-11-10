@@ -1,0 +1,36 @@
+body{
+    background-color: antiquewhite;
+    background-image: url("loader.gif");
+    background-attachment:fixed;
+    text-align: center
+   
+}
+
+h1{
+    color: darkcyan;
+    font-size: 32px;
+    font-style: italic;
+    text-decoration: underline;
+    padding: 30px;
+
+    margin-top: 20px;
+    text-align: center
+    
+
+}
+h2{
+    color: red;
+    text-align: center
+
+}
+
+p{
+    font-family: Arial;
+    font-size:28px;
+    text-align: justify;
+    color: rgb(29, 65, 122);
+    border: 2px solid lightgrey;
+    background-color: white;
+    text-align: center
+}
+
